@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Kesharwani</h1>
 
 - 💛 Currently working with Native Android and Backend Development
-- ⚙️ Tools and Software worked with *Node.js*, *npm*, *Express*, *Firebase*, *Jenkins*, *Postman*, *Figma*, *AdobeXD*
+- ⚙️ Tools and Software worked with *Node.js*, *npm*, *React*, Express*, *Firebase*, *Jenkins*, *Postman*, *Figma*, *AdobeXD*
 - 💻 Database: *MongoDB*, *MySQL*
 - ☁️ Cloud Services: *AWS*, *Azure*, *GCP*
 
@@ -10,9 +10,7 @@
 Stars Sparklines: <br>
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
   
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi2402&show_icons=true&locale=en&layout=compact" alt="khushi2402" /></p> <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi2402&show_icons=true&locale=en&layout=compact" alt="khushi2402" /></p> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi2402&show_icons=true&locale=en" alt="khushi2402" /> </p>
 
