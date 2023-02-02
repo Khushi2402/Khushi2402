@@ -12,9 +12,7 @@ Stars Sparklines: <br>
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi2402&show_icons=true&locale=en&layout=compact" alt="khushi2402" /></p> 
-<br>
 
-<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi2402&show_icons=true&locale=en" alt="khushi2402" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi2402&" alt="khushi2402" /></p>
