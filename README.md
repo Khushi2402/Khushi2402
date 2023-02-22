@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Kesharwani</h1>
 
 - 💛 Currently working with Native Android and Backend Development
-- ⚙️ Tools and Software worked with *Node.js*, *npm*, *React*, *Express*, *Firebase*, *Jenkins*, *Postman*, *Figma*, *AdobeXD*
+- ⚙️ Tools and Software worked with *Node.js*, *npm*, *React*, *Tailwind CSS*, *Express*, *Firebase*, *Jenkins*, *Postman*, *Figma*, *AdobeXD*
 - 💻 Database: *MongoDB*, *MySQL*
 - ☁️ Cloud Services: *AWS*, *Azure*, *GCP*
 
