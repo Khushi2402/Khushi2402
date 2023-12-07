@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Khushi Kesharwani</h1>
 
-- 💛 Currently working with Native Android and Backend Development
-- ⚙️ Tools and Software worked with *Node.js*, *npm*, *React*, *Tailwind CSS*, *Express*, *Firebase*, *Jenkins*, *Postman*, *Figma*, *AdobeXD*
-- 💻 Database: *MongoDB*, *MySQL*
-- ☁️ Cloud Services: *AWS*, *Azure*, *GCP*
+- 💛 Currently engaged in Full-Stack Development
+- ⚙️ Tools and Techstakcs worked on: *MERN stack*, *React Native*, *Node.js*, *npm*, *React*, *Tailwind CSS*, *Express*, *Firebase*, *Postman*, *Figma*, *AdobeXD*
+- 💻 Database: *MongoDB* and *MySQL*
+- ☁️ Cloud Services: *AWS*, *Azure*, and *GCP*
+- 🚀 Passionate about crafting seamless user experiences and scalable solutions
+- 🌐 Actively exploring innovative technologies to enhance development workflows
+- 📚 Committed to continuous learning and staying abreast of industry best practices
+- 🎯 Seeking opportunities to contribute to impactful projects and collaborate with talented teams
 
 <br>
 
