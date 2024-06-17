@@ -14,11 +14,9 @@
 Stars Sparklines: <br>
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
-<br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi2402&show_icons=true&locale=en&layout=compact" alt="khushi2402" /></p> 
-<br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi2402&show_icons=true&locale=en" alt="khushi2402" /> </p>
-<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi2402&" alt="khushi2402" /></p>
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64aae7fe14678473bb5c45a1?variant=dark" alt="roadmap.sh"/></a>
