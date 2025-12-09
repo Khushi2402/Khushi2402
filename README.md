@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khushi Kesharwani</h1>
 
-- 💛 GIS Web Developer
-- ⚙️ Tools and Techstakcs worked on: *MERN stack*, *React Native*, *Node.js*, *npm*, *React*, *Tailwind CSS*, *Express*, *Firebase*, *Postman*, *Figma*, *AdobeXD*, "Open Layers"
-- 💻 Database: *MongoDB*, *MySQL*, "PostreSQL"
+- Portfolio: http://khushi-kesharwani.netlify.app/ 
+- 💛 Lead GIS Web Developer
+- ⚙️ Tools and Techstakcs worked on: *MERN stack*, *React JS*, *Javascript*, *npm*, *Typescript*, *Tailwind CSS*, *Express*, *Firebase*, *Postman*, *Figma*, *AdobeXD*, *Open Layers*, *GIS*, *Clerk*
+- 💻 Database: *MongoDB*, *MySQL*, "PostreSQL", *Supabase*
 - ☁️ Cloud Services: *AWS*, *Azure*, and *GCP*
 - 🚀 Passionate about crafting seamless user experiences and scalable solutions
 - 🌐 Actively exploring innovative technologies to enhance development workflows
